@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_moon_version_3</folder>
+	<filename>Individual82.PNG</filename>
+	<path>C:\Users\usuario\Downloads\new_moon_version_3\Individual82.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>144</width>
+		<height>96</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crater</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>3</ymin>
+			<xmax>141</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+</annotation>

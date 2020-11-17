@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_moon_version_3</folder>
+	<filename>Individual243.PNG</filename>
+	<path>C:\Users\usuario\Downloads\new_moon_version_3\Individual243.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>251</width>
+		<height>242</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crater</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>34</ymin>
+			<xmax>224</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>
