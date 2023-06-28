@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_moon</folder>
+	<filename>crater+moon105.jpg</filename>
+	<path>C:\Users\usuario\Downloads\new_moon\crater+moon105.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1166</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crater</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>54</ymin>
+			<xmax>1942</xmax>
+			<ymax>970</ymax>
+		</bndbox>
+	</object>
+</annotation>

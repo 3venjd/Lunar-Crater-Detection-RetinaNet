@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_moon</folder>
+	<filename>crater+moon53.jpg</filename>
+	<path>C:\Users\Camil\Downloads\new_moon\crater+moon53.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2380</width>
+		<height>2400</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crater</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>767</xmin>
+			<ymin>775</ymin>
+			<xmax>1672</xmax>
+			<ymax>1357</ymax>
+		</bndbox>
+	</object>
+</annotation>
